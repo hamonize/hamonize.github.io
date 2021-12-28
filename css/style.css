@@ -111,6 +111,7 @@ h2 {font-weight: 24px!important; color: #333!important; font-weight: 500}
 .about {margin-top:100px;display: inline-block;}
 .about .about_01 {display: inline-block; float: left; width: 400px;}
 .about .about_02 {display: inline-block; width: 500px; margin-left: 50px}
+.about .about_03 {display: inline-block; float: center; width: 400px;}
 .about .about_02 li{display:block; padding-left: 80px; line-height: 20px; font-size: 13px; margin-bottom: 30px}
 .about .about_02 li span {color:#4936bb; display: block; font-size: 17px; font-weight: 500; line-height: 30px}
 .about_02 li.num1  {background: url(../images/num1.png) no-repeat; }
